@@ -1,6 +1,9 @@
 # Consumer-Goods-Ad-hoc-Insights
 This project analyzes consumer goods sales data for comprehensive insights. Focusing on ten critical aspects, it aims to provide informed decision support for sustained success. AtliQ Hardware prioritizes data-driven decision-making for enhanced performance.
 
+𝐕𝐢𝐝𝐞𝐨 𝐏𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐚𝐢𝐨𝐧 𝐋𝐢𝐧𝐤-
+ https://youtu.be/iF802gCVXdI
+ 
  **𝐏𝐑𝐎𝐁𝐋𝐄𝐌 𝐒𝐓𝐀𝐓𝐄𝐌𝐄𝐍𝐓𝐒**: 
    AtliQ Hardware's management seeks actionable insights from robust sales data analysis in the consumer goods sector. The absence of such insights impedes informed decision-making and risks the company's       
    competitive position. Our objective is to empower management with data-driven strategies, providing essential information for informed decisions. Leveraging data analytics, we aim to enhance AtliQ Hardware's 
